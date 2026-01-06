@@ -50,16 +50,6 @@ It is designed to be **clean**, **lightweight**, and **easy to integrate** into 
 ## 📂 Project Structure
 
 ```bash
-├── index.html
-├── css
-│   └── style.css
-├── js
-│   └── script.js
-├── assets
-│   └── preview.png
-└── README.md
-
-```
 sidbar_nave
 ├─ css
 │  └─ style.css
@@ -74,3 +64,4 @@ sidbar_nave
 └─ README.md
 
 ```
+ 

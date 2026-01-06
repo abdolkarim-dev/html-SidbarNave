@@ -58,3 +58,19 @@ It is designed to be **clean**, **lightweight**, and **easy to integrate** into 
 ├── assets
 │   └── preview.png
 └── README.md
+
+```
+sidbar_nave
+├─ css
+│  └─ style.css
+├─ fonts
+│  └─ Tanha-FD.woff2
+├─ img
+│  ├─ bg2.jpg
+│  ├─ preview1.png
+│  └─ preview2.png
+├─ index.html
+├─ LICENSE
+└─ README.md
+
+```
